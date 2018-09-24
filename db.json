@@ -79,17 +79,14 @@
 			"type": "Contact"
 		}
 	],
-	"entityTypes": [{
-			"id": 1,
-			"description": "Facility"
-		},
-		{
-			"id": 2,
-			"description": "Contact"
-		}
-	],
 	"documents": [{
 		"id": 1,
 		"name": "arpeggio Sheet"
+	}],
+	"users": [{
+		"id": 1,
+		"username": "ngreen",
+		"fullname": "Nicholas Green",
+		"role": "user"
 	}]
 }
