@@ -88,5 +88,17 @@
 		"username": "ngreen",
 		"fullname": "Nicholas Green",
 		"role": "user"
+	},
+	{
+		"id": 2,
+		"username": "fclementi",
+		"fullname": "Fabricio Clementi",
+		"role": "manager"
+	},
+	{
+		"id": 3,
+		"username": "javier",
+		"fullname": "Javier Todo Poderoso",
+		"role": "admin"
 	}]
 }
