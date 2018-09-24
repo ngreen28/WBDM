@@ -44,6 +44,7 @@
 	],
 	"assignments": [{
 			"id": 1,
+			"orderID": 1431,
 			"docTypeID": 1,
 			"entityID": 1,
 			"entityName": "Green Lantern",
@@ -55,6 +56,7 @@
 		},
 		{
 			"id": 2,
+			"orderID": 1431,
 			"docTypeID": 1,
 			"entityID": 2,
 			"entityName": "Red Lantern",
