@@ -2,13 +2,13 @@
 	"orders": [{
 			"id": 1431,
 			"madeBy": 1,
-			"orderStatusID": 1,
+			"orderStatusID": 2,
 			"createdDate": "1506556800"
 		},
 		{
 			"id": 420187,
 			"madeBy": 2,
-			"orderStatusID": 1,
+			"orderStatusID": 3,
 			"createdDate": "1537556627126"
 		},
 		{
