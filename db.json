@@ -45,6 +45,7 @@
 	"assignments": [{
 			"id": 1,
 			"orderID": 1431,
+			"madeBy": 1,
 			"docTypeID": 1,
 			"entityID": 1,
 			"entityName": "Green Lantern",
@@ -57,6 +58,7 @@
 		{
 			"id": 2,
 			"orderID": 1431,
+			"madeBy": 1,
 			"docTypeID": 1,
 			"entityID": 2,
 			"entityName": "Red Lantern",
@@ -69,6 +71,7 @@
 			{
 			"id": 3,
 			"orderID": 4251,
+			"madeBy": 3,
 			"docTypeID": 1,
 			"entityID": 2,
 			"entityName": "Blue Lantern",
