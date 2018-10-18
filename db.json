@@ -52,7 +52,7 @@
 			"entityTypeID": 1,
 			"entityTypeName": "Facility",
 			"docTypeName": "KYC Sheet",
-			"comments": "hola mundo",
+			"comments": "verificar que la carpeta incluya el KYC.",
 			"status": "pending"
 		},
 			{
@@ -65,7 +65,7 @@
 			"entityTypeID": 1,
 			"entityTypeName": "Facility",
 			"docTypeName": "REC Sheet",
-			"comments": "hola mundo 2",
+			"comments": "verificar que incluya contrato de confidencialidad.",
 			"status": "pending"
 		},
 		{
