@@ -38,7 +38,7 @@
 		{
 			"id": 34237,
 			"madeBy": 1,
-			"orderStatusID": 3,
+			"orderStatusID": 2,
 			"createdDate": "1537556732554"
 		}
 	],
@@ -67,6 +67,19 @@
 			"docTypeName": "KTR Sheet",
 			"comments": "hello world",
 			"status": "complete"
+		},
+			{
+			"id": 5,
+			"orderID": 34237,
+			"madeBy": 1,
+			"docTypeID": 1,
+			"entityID": 2,
+			"entityName": "LexCorp",
+			"entityTypeID": 2,
+			"entityTypeName": "Contact",
+			"docTypeName": "REC Sheet",
+			"comments": "hello world",
+			"status": "active"
 		},
 		{
 			"id": 2,
